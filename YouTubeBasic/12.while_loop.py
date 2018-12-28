@@ -1,4 +1,3 @@
-# Completed till 2:20:03
 
 i = 1
 while i <= 10:
