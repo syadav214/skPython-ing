@@ -1,4 +1,3 @@
-# Completed till 2:0:37
 is_male = True
 is_tall = False
 
