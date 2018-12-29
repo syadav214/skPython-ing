@@ -1,5 +1,3 @@
-# Completed till 2:41:22
-
 friends = ['Mayank','Hanuma','Che']
 
 for name in friends:
