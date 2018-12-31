@@ -1,4 +1,3 @@
-# Completed till 3:58:43
 from simple_class import Student
 
 student1 = Student('Santosh', 'CS', 3.5, False)
