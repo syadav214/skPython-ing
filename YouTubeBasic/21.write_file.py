@@ -1,5 +1,3 @@
-# Completed till 3:22:43
-
 # it wil append a new line
 # emp_file = open('emp.txt', 'a')
 # emp_file.write("Santosh\n")
