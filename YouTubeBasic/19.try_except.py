@@ -1,5 +1,3 @@
-# Completed till 3:12:43
-
 try:
     value = 10/0
     number = int(input("Enter a number: "))
