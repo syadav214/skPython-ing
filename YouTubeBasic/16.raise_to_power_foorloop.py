@@ -1,5 +1,3 @@
-# Completed till 2:41:22
-
 from math import *
 # using in-built function => pow
 print(pow(2, 3))
