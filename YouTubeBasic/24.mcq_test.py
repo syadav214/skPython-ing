@@ -1,4 +1,3 @@
-# Completed till 4:08:37
 from simple_mcq_question import Question
 
 question_prompts = [
