@@ -1,6 +1,3 @@
-# Completed till 3:00:22
-
-
 def translate(pharse):
     translation = ''
     for letter in pharse:
