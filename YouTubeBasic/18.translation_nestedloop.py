@@ -1,6 +1,6 @@
-def translate(pharse):
+def translate(phrase):
     translation = ''
-    for letter in pharse:
+    for letter in phrase:
         if letter.lower() in "aeiou":
             if letter.isupper():
                 translation += 'G'
