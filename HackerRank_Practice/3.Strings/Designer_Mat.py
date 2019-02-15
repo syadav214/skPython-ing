@@ -32,7 +32,7 @@ for i in range(r):
         else:
             signCnt -= 2
     l = int((c - len(strToFit))/2)
-    s = s[:l] + strToFit+s[l+len(strToFit):]
+    s = s[:l] + strToFit + s[l+len(strToFit):]
     finalStr += s + '\n'
 print(finalStr)
 
