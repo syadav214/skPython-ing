@@ -1,4 +1,3 @@
-from chef import Chef
 from chineseChef import ChineseChef
 
 mychef = ChineseChef()
