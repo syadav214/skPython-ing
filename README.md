@@ -1,2 +1,2 @@
-# skPython-ing
- Doing stuff with Python
+# python-with-santosh
+ Practice Python
